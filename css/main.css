@@ -764,7 +764,9 @@ footer .content-footer {
     }
     section#sobre-mim .photo {
         margin-top: 48px;
-        width: 54%;
+        width: 374px;
+        height: 410px;
+        border-radius: 413px;
     }
     .title-section {
         text-align: center;
